@@ -1,7 +1,7 @@
 #!/bin/bash
-# Author           : Zosia Drożdż 194319
+# Author           : zofixxx
 # Created On       : 27.05.2024
-# Last Modified By : Zosia Drożdż 194319
+# Last Modified By : zofixxx
 
 declare -A morse
 morse=(
